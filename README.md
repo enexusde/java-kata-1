@@ -1,3 +1,4 @@
+![Java CI with Maven](https://github.com/enexusde/java-kata-1/workflows/Java%20CI%20with%20Maven/badge.svg)
 # Java Kata - Part 1: Library
 
 Code kata in Java where you have to write a library of books and magazines.
