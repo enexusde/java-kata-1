@@ -50,3 +50,6 @@ local.properties
 .recommenders
 .project
 .factorypath
+
+.*
+target
